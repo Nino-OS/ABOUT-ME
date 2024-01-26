@@ -18,4 +18,4 @@
 
 ## Einbindung des Bots
 
-Um Nino-OS zu deinem Discord-Server ist HIER der Link; ➡ **[Nino-OS Einladungslink](https://top.gg/bot/1094405694066790492)** ⬅
+Um Nino-OS zu deinem Discord-Server ist HIER der Link ➡ **[Nino-OS Einladungslink](https://top.gg/bot/1094405694066790492)** ⬅
