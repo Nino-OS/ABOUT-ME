@@ -16,12 +16,6 @@
 
 **ALLE BEFEHLE SIND UNTER; ➡ _[Command-Link](https://nino-os.github.io/commands/)_ ⬅ URL 🔗**
 
-# The Pach-Nots (Buggs)
-
-| BUGGS        | FIXT |
-| ------------ | ---- |
-| Music-System | ✅   |
-
 ## Einbindung des Bots
 
 Um Nino-OS zu deinem Discord-Server ist HIER der Link; ➡ **[Nino-OS Einladungslink](https://top.gg/bot/1094405694066790492)** ⬅
