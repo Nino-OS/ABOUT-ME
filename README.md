@@ -21,7 +21,6 @@
 | BUGGS        | FIXT |
 | ------------ | ---- |
 | Music-System | ✅   |
-| Google-AI    | 🔄   |
 
 ## Einbindung des Bots
 
