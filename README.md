@@ -4,7 +4,7 @@
 
 ## Funktionen und MEHR ...
 
-- Der **Nino-OS** BOT ist ein MUTI-GUILD Bot, das heißt das er **Command** hat wie z.B: der `/auto publish` command (Der automatisch Nachrichten in ein channel veröffentlicht), jedoch hat er auch auch mehr wie z.B: ein `/giveaway` 🎉 systeme. Und dies geht auf **mehren** server (Server = Guild)
+- Der **Nino-OS** Bot ist ein MUTI-GUILD Bot, das heißt das er **Command** hat wie z.B: der `/auto publish` command (Der automatisch Nachrichten in ein channel veröffentlicht), jedoch hat er auch auch mehr wie z.B: ein `/giveaway` 🎉 systeme. Und dies geht auf **mehren** server
 
 - Und der **Nino-OS** BOT hat natürlich ein _Bann_, _Unbann_, _Kick_ und **c.o.** systeme und vieles mehr **...**
 
@@ -15,13 +15,6 @@
 ## Befehle
 
 **ALLE BEFEHLE SIND UNTER; ➡ _[Command-Link](https://nino-os.github.io/commands/)_ ⬅ URL 🔗**
-
-# The Pach-Nots (Buggs)
-
-| BUGGS        | FIXT |
-| ------------ | ---- |
-| Music-System | ✅   |
-| Google-AI    | 🔄   |
 
 ## Einbindung des Bots
 
